@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience seamless car rental with innovative solutions at your fingertips",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless car rental with innovative solutions at your fingertips",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience seamless car rental with innovative solutions at your fingertips",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience seamless car rental with innovative solutions at your fingertips",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless car rental with innovative solutions at your fingertips",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience seamless car rental with innovative solutions at your fingertips",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience seamless car rental with innovative solutions at your fingertips",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless car rental with innovative solutions at your fingertips",
+        "title": "Drive the Future Today"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive the Future Today",
+  "subtitle": "Experience seamless car rental with innovative solutions at your fingertips"
+}
